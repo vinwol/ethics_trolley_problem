@@ -30,13 +30,13 @@ Image Source: [`Young-Jin Choi, 18.05.2021: 10 variations of the trolley problem
 ![Variation of Trolley Problem](images/trol111.png)
 
 Image Source:
-![Variation of Trolley Problem](images/trol2.png)
+<img src="images/trol2.png" alt="Variation of Trolley Problem" style="width:80%; height:auto;">
 
 Image Source:
-![Variation of Trolley Problem](images/trol3.png)
+<img src="images/trol3.png" alt="Variation of Trolley Problem" style="width:80%; height:auto;">
 
 Image Source:
-![Variation of Trolley Problem](images/trol4.png)
+<img src="images/trol4.png" alt="Variation of Trolley Problem" style="width:80%; height:auto;">
 
 Image Source:
 ![Variation of Trolley Problem](images/trol5.png)
