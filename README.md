@@ -41,7 +41,7 @@ Image Source:
 <br/>
 <img src="images/trol2.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/>
 
 Image Source:
 <br/>
