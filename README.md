@@ -17,10 +17,12 @@ The Trolley Problem and its many variations have become central to discussions i
 * [`Z. Jin et al, 2025: Language Model Alignment in Multilingual Trolley Problems`](https://arxiv.org/abs/2407.02273)
 * [`Nolan Clarke, 03.12.2023: I Asked ChatGPT for Its Take on the Trolley Problem`](https://nolanclarke.medium.com/i-asked-chatgpt-for-its-take-on-the-trolley-problem-e3ebf1ff51fd)
 * [`Bhargava Krishna Sreepathi, 21,07.2024: Solving the Trolley Problem with AI: LLMs to the Rescue!`](https://www.youtube.com/watch?v=lg2K0z4UBYM) At around 10:16 minutes in, 
-Bhargava shows how ChatGPT 4o addresses the Trolley Problem and soem of its Variations.
+Bhargava shows how ChatGPT 4o addresses the Trolley Problem and some of its variations.
 
 ## Variations
 
+An incomplete list of variations of the Trolley Problem.
 
+![Variation of Trolley Problem](images/trol1.png)
 
 
