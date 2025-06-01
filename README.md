@@ -23,6 +23,14 @@ Bhargava shows how ChatGPT 4o addresses the Trolley Problem and some of its vari
 
 An incomplete list of variations of the Trolley Problem.
 
+Image Source: [`David Edmonds, 2015: Würden SIE den dicken Mann töten?`](https://www.amazon.de/W%C3%BCrden-dicken-Mann-t%C3%B6ten-Trolley-Problem/dp/315011036X)
 ![Variation of Trolley Problem](images/trol1.png)
 
+Image Source: [`Young-Jin Choi, 18.05.2021: 10 variations of the trolley problem to explain the difference between climate action and inaction`](https://www.linkedin.com/pulse/10-variations-trolley-problem-explain-difference-young-jin-choi-frsa/)
+![Variation of Trolley Problem](images/trol111.png)
 
+Image Source:
+![Variation of Trolley Problem](images/trol1.png)
+
+Image Source:
+![Variation of Trolley Problem](images/trol1.png)
