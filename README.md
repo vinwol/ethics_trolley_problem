@@ -23,52 +23,52 @@ Bhargava shows how ChatGPT 4o addresses the Trolley Problem and some of its vari
 
 An incomplete list of variations of the Trolley Problem.
 
-Image Source: [`David Edmonds, 2015: Würden SIE den dicken Mann töten?`](https://www.amazon.de/W%C3%BCrden-dicken-Mann-t%C3%B6ten-Trolley-Problem/dp/315011036X)
+<br/><br/>
+
+Image Source: <br/>
+[`David Edmonds, 2015: Würden SIE den dicken Mann töten?`](https://www.amazon.de/W%C3%BCrden-dicken-Mann-t%C3%B6ten-Trolley-Problem/dp/315011036X)
 ![Variation of Trolley Problem](images/trol1.png)
 
-<br/><br/>
-
-Image Source: [`Young-Jin Choi, 18.05.2021: 10 variations of the trolley problem to explain the difference between climate action and inaction`](https://www.linkedin.com/pulse/10-variations-trolley-problem-explain-difference-young-jin-choi-frsa/)
+Image Source: <br/>
+[`Young-Jin Choi, 18.05.2021: 10 variations of the trolley problem to explain the difference between climate action and inaction`](https://www.linkedin.com/pulse/10-variations-trolley-problem-explain-difference-young-jin-choi-frsa/)
 ![Variation of Trolley Problem](images/trol111.png)
 
-<br/><br/>
-
-Image Source:
+Image Source:<br/>
 <img src="images/trol2.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-Image Source:
+Image Source:<br/>
 <img src="images/trol3.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 Image Source:
 <img src="images/trol4.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-Image Source:
+Image Source:<br/>
 <img src="images/trol5.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-Image Source:
+Image Source:<br/>
 <img src="images/trol6.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-Image Source:
+Image Source:<br/>
 <img src="images/trol8.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
 <br/><br/>
 
-Image Source:
+Image Source:<br/>
 <img src="images/trol9.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-Image Source:
+Image Source:<br/>
 <img src="images/trol10.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
 <br/><br/>
