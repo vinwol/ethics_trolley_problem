@@ -49,7 +49,7 @@ Image Source:
 <br/>
 <img src="images/trol3.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/>
 
 Image Source:
 <br/>
@@ -57,7 +57,7 @@ Image Source:
 <br/>
 <img src="images/trol4.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/>
 
 Image Source:
 <br/>
@@ -65,7 +65,7 @@ Image Source:
 <br/>
 <img src="images/trol5.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/>
 
 Image Source:
 <br/>
@@ -73,7 +73,7 @@ Image Source:
 <br/>
 <img src="images/trol6.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/>
 
 Image Source:
 <br/>
@@ -81,7 +81,7 @@ Image Source:
 <br/>
 <img src="images/trol8.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/>
 
 Image Source:
 <br/>
@@ -89,7 +89,7 @@ Image Source:
 <br/>
 <img src="images/trol9.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/>
+<br/>
 
 Image Source:
 <br/>
