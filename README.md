@@ -23,7 +23,7 @@ Bhargava shows how ChatGPT 4o addresses the Trolley Problem and some of its vari
 
 An incomplete list of variations of the Trolley Problem.
 
-Image Source: 
+*Image Source:* 
 <br/>
 [`David Edmonds, 2015: Würden SIE den dicken Mann töten?`](https://www.amazon.de/W%C3%BCrden-dicken-Mann-t%C3%B6ten-Trolley-Problem/dp/315011036X)
 <br/>
