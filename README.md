@@ -29,13 +29,13 @@ An incomplete list of variations of the Trolley Problem.
 <br/>
 ![Variation of Trolley Problem](images/trol1.png)
 
-Image Source: 
+*Image Source:* 
 <br/>
 [`Young-Jin Choi, 18.05.2021: 10 variations of the trolley problem to explain the difference between climate action and inaction`](https://www.linkedin.com/pulse/10-variations-trolley-problem-explain-difference-young-jin-choi-frsa/)
 <br/>
 ![Variation of Trolley Problem](images/trol111.png)
 
-Image Source:
+*Image Source:* 
 <br/>
 [`Trolley Problem Memes`](https://www.facebook.com/photo.php?fbid=1275724516109804&id=250353181980281&set=a.250373635311569&locale=pt_PT)
 <br/>
@@ -43,7 +43,7 @@ Image Source:
 
 <br/>
 
-Image Source:
+*Image Source:* 
 <br/>
 [`Advanced Trolley Problems`](https://nonstandardrepertoire.tumblr.com/post/115882305992/advanced-trolley-problems)
 <br/>
@@ -51,7 +51,7 @@ Image Source:
 
 <br/>
 
-Image Source:
+*Image Source:* 
 <br/>
 [`Advanced Trolley Problems`](https://nonstandardrepertoire.tumblr.com/post/115882305992/advanced-trolley-problems)
 <br/>
@@ -59,7 +59,7 @@ Image Source:
 
 <br/>
 
-Image Source:
+*Image Source:* 
 <br/>
 [`Inverse Trolley Problem`](https://www.reddit.com/r/trolleyproblem/comments/1328lg8/inverse_trolley_problem/)
 <br/>
@@ -67,7 +67,7 @@ Image Source:
 
 <br/>
 
-Image Source:
+*Image Source:* 
 <br/>
 [`Trolley Problem Variations`](https://imgur.com/gallery/trolley-dump-29th-DwC8wlg#/t/trolley_problem)
 <br/>
@@ -75,7 +75,7 @@ Image Source:
 
 <br/>
 
-Image Source:
+*Image Source:* 
 <br/>
 [`Trolley Problem Variations`](https://imgur.com/gallery/uvalde-trolley-problem-8ejwid3#/t/trolley_problem)
 <br/>
@@ -83,7 +83,7 @@ Image Source:
 
 <br/>
 
-Image Source:
+*Image Source:* 
 <br/>
 [`Trolley Problem Variations`](https://imgur.com/gallery/repost-fUjFLxI#/t/trolley_problem)
 <br/>
@@ -91,7 +91,7 @@ Image Source:
 
 <br/>
 
-Image Source:
+*Image Source:* 
 <br/>
 [`My Favorite Trolley Problem Crossovers`](https://imgur.com/gallery/favorite-trolley-problem-crossovers-FuJz1kD#/t/trolley_problem)
 <br/>
