@@ -49,7 +49,7 @@ Image Source:
 <br/>
 <img src="images/trol3.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 Image Source:
 <br/>
@@ -57,7 +57,7 @@ Image Source:
 <br/>
 <img src="images/trol4.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 Image Source:
 <br/>
@@ -65,7 +65,7 @@ Image Source:
 <br/>
 <img src="images/trol5.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 Image Source:
 <br/>
@@ -73,13 +73,13 @@ Image Source:
 <br/>
 <img src="images/trol6.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 Image Source:
 <br/>
 [`Trolley Problem Variations`](https://imgur.com/gallery/uvalde-trolley-problem-8ejwid3#/t/trolley_problem)
 <br/>
-img src="images/trol8.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
+<img src="images/trol8.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
 <br/><br/>
 
@@ -89,7 +89,7 @@ Image Source:
 <br/>
 <img src="images/trol9.png" alt="Variation of Trolley Problem" style="width:60%; height:auto;">
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 Image Source:
 <br/>
